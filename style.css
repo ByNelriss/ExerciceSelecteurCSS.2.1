@@ -1,0 +1,36 @@
+header h1 {
+text-align: center;
+font-size: 26px;
+}
+
+header h2 {
+text-align: right;
+font-size: 20px;
+}
+
+header p {
+font-size: 10px;
+text-align: center;
+}
+
+header span {
+text-decoration: underline;
+}
+
+selection h2 {
+text-align: center;
+font-size: 16px;
+}
+
+selection p {
+font-size: 13px;
+font-style: italic;
+}
+
+selection span {
+text-decoration: line-through;
+}
+
+selection p.danger {
+font-weight: bold;
+}
